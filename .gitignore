@@ -1,0 +1,5 @@
+nav/node_modules
+home/node_modules
+nav/build
+home/biuld
+.DS_Store
